@@ -27,12 +27,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Mateuus-Goveia GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateuus-Goveia&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateuus-Goveia&layout=compact&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 - 💼 [GitHub](https://github.com/Mateuus-Goveia)
 - 🌐 [Linkedin](https://www.linkedin.com/in/matheus-goveia)
